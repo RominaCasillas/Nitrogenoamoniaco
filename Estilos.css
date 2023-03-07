@@ -1,0 +1,47 @@
+@charset "utf-8";
+#head {
+    background-color: #5E9AA4;
+    height: 200px;
+    width: 100%;
+}
+#body {
+    background-color: #5C7A93;
+    height: 400px;
+    width: 100%;
+}
+#footer {
+    background-color: #6AA8D0;
+    height: 200px;
+    width: 100%;
+}
+#izq {
+    background-color: #758EBF;
+    float: left;
+    height: 400px;
+    width: 30%;
+}
+#derecha {
+    background-color: #2D9684;
+    float: left;
+    height: 400px;
+    width: 70%;
+}
+.texto {
+    color: #FFFFFF;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+.titulo {
+    color: #8BC9A1;
+    text-align: center;
+    text-shadow: -0px 0px 18px #2C8A7A;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#menu{
+    background-color: #5E9AA4;
+    height: 75px;
+    width: 100%;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
